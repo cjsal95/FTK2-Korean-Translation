@@ -4,7 +4,9 @@
 
 이 프로젝트는 개발사가 숨겨둔 언어 데이터 시스템을 분석하여 오역을 바로잡고, 다른 모더들이나 유저들이 깨짐 현상 없이 한글 패치 작업을 진행할 수 있도록 돕기 위해 제작되었습니다.
 
-저는 DLC가 없어요! DLC 관련 번역은 제가 알 수 없습니다.
+2026.11.12 재에서 재로 (Dust to Dust) DLC 한글 패치까지 반영
+
+- 번역 내용은 제미나이를 통해 분석한 https://drive.google.com/file/d/1mL3hhwgdyvW8jcNyjQYN-lYIjs1J7xrs/view?usp=sharing 보고서에 기반합니다.
 
 ---
 
